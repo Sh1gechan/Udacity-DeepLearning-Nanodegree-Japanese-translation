@@ -1,1 +1,2 @@
-# Udacity-DeepLearning-Nanodegree-
+# Udacity-DeepLearning-Nanodegree-Japanese translation
+このリポジトリにはUdacityのNanodegreeプログラムの一つであるDeepLearningで使ったipynbなどの日本語訳を上げていく。
